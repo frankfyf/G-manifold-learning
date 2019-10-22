@@ -38,7 +38,7 @@ Each jobscript example has a 'Parameters' section for the hyper-parameter settin
 n = 1000; % number of data points 
 k_max = 6; % maximum frequency
 m_k = 10; % eigenvalue truncation for each frequency
-id_nn = 50;
+id_nn = 50; % number of neighbors for identification
 ~~~
 
 To adjust the random rewiring probability p for adding noise:
