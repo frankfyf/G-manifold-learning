@@ -33,7 +33,20 @@ jobscript_cluster_SO3
 ~~~
 in the command window.
 
-Each jobscript example has a 'Parameters' section for the hyper-parameter setting, e.g. number of points, number of clusters, maximum frequency, etc.  
+Each jobscript example has a 'Parameters' section for the hyper-parameter setting. For example:
+~~~
+n = 1000; % number of data points 
+k_max = 6; % maximum frequency
+m_k = 10; % eigenvalue truncation for each frequency
+id_nn = 50;
+~~~
+
+To adjust the random rewiring probability p for adding noise:
+~~~
+p_range = [0.16, 0.20, 0.25]; % range of random rewiring probabilities
+~~~
+
+
 
 ## Authors
 
