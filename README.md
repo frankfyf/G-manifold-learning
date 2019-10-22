@@ -41,7 +41,7 @@ m_k = 10; % eigenvalue truncation for each frequency
 id_nn = 50; % number of neighbors for identification
 ~~~
 
-To adjust the random rewiring probability p for adding noise:
+To adjust the random rewiring probability:
 ~~~
 p_range = [0.16, 0.20, 0.25]; % range of random rewiring probabilities
 ~~~
