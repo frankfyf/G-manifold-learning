@@ -20,7 +20,7 @@ Code for the cryo-EM image experiment will be updated soon.
 ## Prerequisites
 Code is written in MATLAB. To run the codes with 'SO(3)', make sure the _Robotics System Toolbox_ has been installed and authorized.
 
-## Running the tests
+## Running the experiments
 For example, to reproduce the experiment 'Spectral clustering with G = SO(3)', in Matlab run 
 ~~~
 jobscript_cluster_SO3.m 
