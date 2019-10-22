@@ -1,6 +1,8 @@
-**Code for 'Unsupervised Co-Learning on $\mathcal{G}$-Manifolds Across Irreducible Representations' to be appeared in NeurIPS 2019**. 
+**Code for 'Unsupervised Co-Learning on $\mathcal{G}$-Manifolds Across Irreducible Representations'** 
 
-arXiv: https://arxiv.org/abs/1906.02707.
+**To be appeared in NeurIPS 2019** 
+
+arXiv: https://arxiv.org/abs/1906.02707
 
 ## Getting Started
 
