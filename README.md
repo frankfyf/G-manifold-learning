@@ -31,9 +31,9 @@ or type
 ~~~
 jobscript_cluster_SO3
 ~~~
-in the command window
+in the command window.
 
-Hyper parameters can be tuned in the 'Parameters' section in each code example.
+Each jobscript example has a 'Parameters' section for the hyper-parameter setting, e.g. number of points, number of clusters, maximum frequency, etc.  
 
 ## Authors
 
@@ -43,6 +43,19 @@ Hyper parameters can be tuned in the 'Parameters' section in each code example.
 
 * **Zhizhen Zhao** - University of Illinois at Urbana-Champaign (http://zhizhenz.ece.illinois.edu/)
 
+## Citing
+If you find this repository useful for your research, please consider citing our paper:
+
+    @article{fan2019unsupervised,
+    title={Unsupervised Co-Learning on $$\backslash$mathcal $\{$G$\}$ $-Manifolds Across Irreducible Representations},
+    author={Fan, Yifeng and Gao, Tingran and Zhao, Zhizhen},
+    journal={arXiv preprint arXiv:1906.02707},
+    year={2019}
+    }
+
+## Miscellaneous
+
+Please send any problems/questions you might have to <yifengf2@illinois.edu>.
 
 ## License
 
