@@ -30,7 +30,7 @@ corr = v'*v;
 
 k_max = 10; % maximum frequency
 m_k = 20; % eigenvalue truncation for each frequency
-id_nn = 50;
+id_nn = 50; % number of neighbors for identification
 
 % Euclidean and geodesic distance between data points 
 e_dis = zeros(n,n);

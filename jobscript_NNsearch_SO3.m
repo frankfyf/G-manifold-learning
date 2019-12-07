@@ -28,7 +28,7 @@ disp('Preprocessing...')
 n = 1000; % number of data points 
 k_max = 6; % maximum frequency
 m_k = 10; % eigenvalue truncation for each frequency
-id_nn = 50;
+id_nn = 50; % number of neighbors for identification
 
 % Uniformly sample on S^3
 q = randn(n,4); 
